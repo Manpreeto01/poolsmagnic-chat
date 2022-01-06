@@ -1,0 +1,23 @@
+{
+  "name": "poolsmagnic-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "dupinder.15c@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "config": "^2.0.1",
+    "eiows": "^3.6.1",
+    "express": "^4.16.3",
+    "moment": "^2.22.2",
+    "mysql": "^2.18.1",
+    "socket.io": "2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
